@@ -1,8 +1,8 @@
-## Q&A Staff’ AI Exploration
+## Exploring toy-scale AI systems — simple experiments, serious insights.
 
-### This page is accessible via 🔗<a href="https://qa-ai.top"><b>qa-ai.top</b></a>
+### This page is accessible via 🔗<a href="https://toyaix.top"><b>toyaix.top</b></a>
 
-## 🚀 [TritonLLM](https://github.com/qa-ai/TritonLLM) Chinese documentation
+## 🚀 [TritonLLM](https://github.com/toyaix/TritonLLM) Chinese documentation
 
 [TritonLLM v0.1.0: 基于 Triton 的大模型推理初步探索(eb16e6a)](https://zhuanlan.zhihu.com/p/1946682230614254751)
 
@@ -10,7 +10,7 @@
 
 [5090显卡+Triton，轻松玩转GPT-OSS-20B！(6bb4b91)](https://zhuanlan.zhihu.com/p/1936692690503865129)
 
-## 🔧 [triton-runner](https://github.com/qa-ai/triton-runner) Chinese documentation
+## 🔧 [Triton Runner](https://github.com/toyaix/triton-runner) Chinese documentation
 
 [Triton Runner v0.2.0 : 支持调试，多版本支持(4b85c7a)](https://zhuanlan.zhihu.com/p/1951383935830454570)
 
@@ -21,7 +21,7 @@
 [Triton黑魔法：cubin runner(539d549)](https://zhuanlan.zhihu.com/p/1925826891702576935)
 
 
-## 💡 [triton-ocl](https://github.com/qa-ai/triton-ocl) Chinese documentation
+## 💡 [Triton OpenCL](https://github.com/toyaix/triton-ocl) Chinese documentation
 
 [Triton SPIR-V 后端开发：矩阵乘实现验证(953bff6)](https://zhuanlan.zhihu.com/p/1925309765489230184)
 
@@ -33,7 +33,7 @@
 
 [Triton SPIR-V 后端开发：backend 初始化(02ff396)](https://zhuanlan.zhihu.com/p/1907141200789602446)
 
-## 📖 [Triton](https://github.com/triton-lang/triton) blog in Chinese
+## 📖 [OpenAI/Triton](https://github.com/triton-lang/triton) blog in Chinese
 
 [浅析 Triton 执行流程](https://zhuanlan.zhihu.com/p/712640431)
 
