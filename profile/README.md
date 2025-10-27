@@ -10,15 +10,29 @@
 
 [5090显卡+Triton，轻松玩转GPT-OSS-20B！(6bb4b91)](https://zhuanlan.zhihu.com/p/1936692690503865129)
 
-## 🔧 [Triton Runner](https://github.com/toyaix/triton-runner) Chinese documentation
+## 🔧 [Triton Runner](https://github.com/toyaix/triton-runner) Chinese user documentation
+
+[Triton Runner：项目介绍及展望](https://zhuanlan.zhihu.com/p/1953369848705971938)
+
+[Triton Runner：多层级执行](https://zhuanlan.zhihu.com/p/1962780277102314198)
+
+[Triton Runner：多层级执行实战](https://zhuanlan.zhihu.com/p/1962781206987903833)
+
+[Triton Runner：多层级dump，快乐对精度](https://zhuanlan.zhihu.com/p/1962781753031763780)
+
+[Triton Runner：benchmark](https://zhuanlan.zhihu.com/p/1962782889830781511)
+
+## 🔧 [Triton Runner](https://github.com/toyaix/triton-runner) Chinese develop documentation
+
+[Triton Runner v0.2.6 : Python调试，Gluon支持(8eebaaa)](https://zhuanlan.zhihu.com/p/1958653485118624326)
 
 [Triton Runner v0.2.0 : 支持调试，多版本支持(4b85c7a)](https://zhuanlan.zhihu.com/p/1951383935830454570)
 
-[Triton多层级runner v0.1.5：支持缓存机制，Benchmark更友好 (9c28df1)](https://zhuanlan.zhihu.com/p/1931261279072396108)
+[Triton Runner v0.1.5：支持缓存机制，Benchmark更友好(9c28df1)](https://zhuanlan.zhihu.com/p/1931261279072396108)
 
-[Triton黑魔法：多层级 runner 工具(795ff3d)](https://zhuanlan.zhihu.com/p/1927486699484717368)
+[Triton Runner v0.1.1：多层级 runner 工具(795ff3d)](https://zhuanlan.zhihu.com/p/1927486699484717368)
 
-[Triton黑魔法：cubin runner(539d549)](https://zhuanlan.zhihu.com/p/1925826891702576935)
+[Triton Runner v0.0.0：cubin Runner(539d549)](https://zhuanlan.zhihu.com/p/1925826891702576935)
 
 
 ## 💡 [Triton OpenCL](https://github.com/toyaix/triton-ocl) Chinese documentation
