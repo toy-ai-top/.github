@@ -62,3 +62,9 @@
 [CUDA优化黑魔法：假装CUTLASS库(Triton PR7298)](https://zhuanlan.zhihu.com/p/1926902370920568120)
 
 [triton是否会冲击cuda生态？BobHuang的回答](https://www.zhihu.com/question/1919763006750975400/answer/1921121681612739823)
+
+## Organizations I Established
+I created and maintain the following organizations:
+- [ToyAIX](https://github.com/toyaix)
+- [OpenMLIR](https://github.com/openmlir)  
+- [DSL-Learn](https://github.com/dsl-learn)  
